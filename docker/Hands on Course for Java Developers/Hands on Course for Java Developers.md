@@ -14,9 +14,9 @@
 
 1.1 Docker Quick Introduction.pptx
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203012113.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203012113.png)
+![./assets/image-20201018203012113.png](./assets/image-20201018203012113.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203026491.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203026491.png)
+![./assets/image-20201018203026491.png](./assets/image-20201018203026491.png)
 
 Google on “[How is Docker different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine)” , click on the first link on stackoverflow.com to get a more detailed understanding of docker vs virtual machines.
 
@@ -186,33 +186,33 @@ docker system prune -af
 
 2.1 Docker Engine.pptx
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203333848.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203333848.png)
+![./assets/image-20201018203333848.png](./assets/image-20201018203333848.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203402457.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203402457.png)
+![./assets/image-20201018203402457.png](./assets/image-20201018203402457.png)
 
 ### **3. Real World Use case - The problem**
 
 3.1 Real World Use Case - The Problem.pptx
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203607582.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203607582.png)
+![./assets/image-20201018203607582.png](./assets/image-20201018203607582.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203629316.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203629316.png)
+![./assets/image-20201018203629316.png](./assets/image-20201018203629316.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203706103.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203706103.png)
+![./assets/image-20201018203706103.png](./assets/image-20201018203706103.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203805956.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203805956.png)
+![./assets/image-20201018203805956.png](./assets/image-20201018203805956.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203819069.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203819069.png)
+![./assets/image-20201018203819069.png](./assets/image-20201018203819069.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203843505.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203843505.png)
+![./assets/image-20201018203843505.png](./assets/image-20201018203843505.png)
 
 ### **4. Real World Use case - Docker to the rescue**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203909811.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203909811.png)
+![./assets/image-20201018203909811.png](./assets/image-20201018203909811.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203945013.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018203945013.png)
+![./assets/image-20201018203945013.png](./assets/image-20201018203945013.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204003257.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204003257.png)
+![./assets/image-20201018204003257.png](./assets/image-20201018204003257.png)
 
 **SUMMARY**
 
@@ -240,7 +240,7 @@ Consistent development of software across all environments.
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204257983.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204257983.png)
+![./assets/image-20201018204257983.png](./assets/image-20201018204257983.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%201.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%201.png)
 
@@ -248,21 +248,21 @@ Consistent development of software across all environments.
 
 1.2 Docker hello-world.pptx
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204402940.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204402940.png)
+![./assets/image-20201018204402940.png](./assets/image-20201018204402940.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%203.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%203.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%204.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%204.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204325957.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018204325957.png)
+![./assets/image-20201018204325957.png](./assets/image-20201018204325957.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018205107428.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018205107428.png)
+![./assets/image-20201018205107428.png](./assets/image-20201018205107428.png)
 
 ### **1.4 Installation on the MAC**
 
 ### **2. Docker installation on Windows 10 Professional**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620112104403.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620112104403.png)
+![./assets/image-20200620112104403.png](./assets/image-20200620112104403.png)
 
 - Cài extension docker
 - gg: windows hypervisor enable
@@ -273,7 +273,7 @@ Consistent development of software across all environments.
 
 ![Untitled](Hands%20on%20Course%20for%20Java%20Developers/Untitled%206.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113113966.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113113966.png)
+![./assets/image-20200620113113966.png](./assets/image-20200620113113966.png)
 
 1.**Open up the power shell**
 
@@ -284,9 +284,9 @@ docker run –it hello-world`
 
 ### **3. Docker Summary Break - 1**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018205713331.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018205713331.png)
+![./assets/image-20201018205713331.png](./assets/image-20201018205713331.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113325918.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113325918.png)
+![./assets/image-20200620113325918.png](./assets/image-20200620113325918.png)
 
 ## **4. Important-Note Before you start the use cases**
 
@@ -295,15 +295,15 @@ docker run –it hello-world`
 > Make sure docker run in linux container
 > 
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113514100.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113514100.png)
+![./assets/image-20200620113514100.png](./assets/image-20200620113514100.png)
 
 [https://docs.docker.com/machine/install-machine/](https://docs.docker.com/machine/install-machine/)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113620272.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620113620272.png)
+![./assets/image-20200620113620272.png](./assets/image-20200620113620272.png)
 
 ### **2. MAC only Before you start the use case**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620122911349.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620122911349.png)
+![./assets/image-20200620122911349.png](./assets/image-20200620122911349.png)
 
 ## **5. Use Case 1 Host a website on Apache httpd Server**
 
@@ -313,13 +313,13 @@ docker run –it hello-world`
 
 ### **2. What is a Docker Image**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123503330.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123503330.png)
+![./assets/image-20200620123503330.png](./assets/image-20200620123503330.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123524993.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123524993.png)
+![./assets/image-20200620123524993.png](./assets/image-20200620123524993.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123540542.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123540542.png)
+![./assets/image-20200620123540542.png](./assets/image-20200620123540542.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123657224.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620123657224.png)
+![./assets/image-20200620123657224.png](./assets/image-20200620123657224.png)
 
 ### **3. Building, Listing and Inspecting Images**
 
@@ -429,27 +429,27 @@ COPY httpd.conf /usr/local/apache2/conf
 
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131616573.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131616573.png)
+![./assets/image-20200620131616573.png](./assets/image-20200620131616573.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131644306.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131644306.png)
+![./assets/image-20200620131644306.png](./assets/image-20200620131644306.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131711500.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131711500.png)
+![./assets/image-20200620131711500.png](./assets/image-20200620131711500.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131830780.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620131830780.png)
+![./assets/image-20200620131830780.png](./assets/image-20200620131830780.png)
 
 - t: Just know that for now the thing is the output is the terminal.
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620132408772.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620132408772.png)
+![./assets/image-20200620132408772.png](./assets/image-20200620132408772.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620132649814.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620132649814.png)
+![./assets/image-20200620132649814.png](./assets/image-20200620132649814.png)
 
 ### **4. Running Containers, listing, starting and stopping containers**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620133319555.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620133319555.png)
+![./assets/image-20200620133319555.png](./assets/image-20200620133319555.png)
 
 [http://localhost:5555/](http://localhost:5555/)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620133448082.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620133448082.png)
+![./assets/image-20200620133448082.png](./assets/image-20200620133448082.png)
 
 `#note if you run this it will NOT run in detached mode.
 docker run -it --name my-http-container-not-detached-mode -p 5557:80 my-httpd:latest
@@ -460,20 +460,20 @@ Nhược điểm của cách chạy cuối k có detach mode is if you CTRL C, y
 
 Nếu tham số -P được viết hoa thì random port
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620134447881.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620134447881.png)
+![./assets/image-20200620134447881.png](./assets/image-20200620134447881.png)
 
 [http://localhost:32768](http://localhost:32768/)
 
 ### **5. Logging into the container**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620134905532.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620134905532.png)
+![./assets/image-20200620134905532.png](./assets/image-20200620134905532.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620135243391.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620135243391.png)
+![./assets/image-20200620135243391.png](./assets/image-20200620135243391.png)
 
 > Có thể nhập vài characters đầu của container id
 > 
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620135419797.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620135419797.png)
+![./assets/image-20200620135419797.png](./assets/image-20200620135419797.png)
 
 The first process ID is logged in as root and then it starts I see the beauty in the foreground.
 
@@ -483,7 +483,7 @@ to have the first process ID as well as what does the default startup script our
 
 has to be launched from that image.
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620135925535.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620135925535.png)
+![./assets/image-20200620135925535.png](./assets/image-20200620135925535.png)
 
 these two lines which basically were modified when we created the image.
 
@@ -491,29 +491,29 @@ these two lines which basically were modified when we created the image.
 
 So you need to stop a container container.
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620140509105.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620140509105.png)
+![./assets/image-20200620140509105.png](./assets/image-20200620140509105.png)
 
 ### **7. Usecase-1 Quick Summary and Recap**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215735481.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215735481.png)
+![./assets/image-20201018215735481.png](./assets/image-20201018215735481.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215752451.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215752451.png)
+![./assets/image-20201018215752451.png](./assets/image-20201018215752451.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215807890.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215807890.png)
+![./assets/image-20201018215807890.png](./assets/image-20201018215807890.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215818688.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018215818688.png)
+![./assets/image-20201018215818688.png](./assets/image-20201018215818688.png)
 
 ## **6. Use Case 2 Host a website on NGINX HTTP Server**
 
 ### **1. Introduction to Use Case 2**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620144719367.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620144719367.png)
+![./assets/image-20200620144719367.png](./assets/image-20200620144719367.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018222935292.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201018222935292.png)
+![./assets/image-20201018222935292.png](./assets/image-20201018222935292.png)
 
 ### **2. Build-Tag-Push & Pull images**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620145042363.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620145042363.png)
+![./assets/image-20200620145042363.png](./assets/image-20200620145042363.png)
 
 Dockerfile
 
@@ -606,21 +606,21 @@ Go to termial
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%208.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%208.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620150246474.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620150246474.png)
+![./assets/image-20200620150246474.png](./assets/image-20200620150246474.png)
 
 Type `clear` to clear screen and run `exit` to quit the exec mode in the terminal
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620150414183.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620150414183.png)
+![./assets/image-20200620150414183.png](./assets/image-20200620150414183.png)
 
 Vào page dockerhub log in
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620151447518.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620151447518.png)
+![./assets/image-20200620151447518.png](./assets/image-20200620151447518.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620153627698.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620153627698.png)
+![./assets/image-20200620153627698.png](./assets/image-20200620153627698.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620153703411.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620153703411.png)
+![./assets/image-20200620153703411.png](./assets/image-20200620153703411.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201019000503834.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201019000503834.png)
+![./assets/image-20201019000503834.png](./assets/image-20201019000503834.png)
 
 remove image in order
 
@@ -642,7 +642,7 @@ docker run -itd --name my-nginx-container-3 -p 7777:80 nginx:1.0
 
 Afterwards, pull images
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620155108080.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620155108080.png)
+![./assets/image-20200620155108080.png](./assets/image-20200620155108080.png)
 
 ## **7. Brain Overload - 1**
 
@@ -653,19 +653,19 @@ Afterwards, pull images
 - Dockerfile is “Case sensitive”. So make sure the right case is used.
 - It is used to build a Docker Image
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620160903386.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620160903386.png)
+![./assets/image-20200620160903386.png](./assets/image-20200620160903386.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620160924138.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620160924138.png)
+![./assets/image-20200620160924138.png](./assets/image-20200620160924138.png)
 
 ## **8. Use Case 3 Docker-Git integration and creating a custom UBUNTU image**
 
 ### **1. Introduction to Use Case 3**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620161210807.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620161210807.png)
+![./assets/image-20200620161210807.png](./assets/image-20200620161210807.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620161228850.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620161228850.png)
+![./assets/image-20200620161228850.png](./assets/image-20200620161228850.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020012315333.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020012315333.png)
+![./assets/image-20201020012315333.png](./assets/image-20201020012315333.png)
 
 **Step 1:** **Open Github desktop and create a dummy Project, check it into GIT HUB**
 
@@ -747,7 +747,7 @@ docker logs -ft <container-id>
 
 Xài docker-desktop sau khi create new repo thì publish
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020013155653.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020013155653.png)
+![./assets/image-20201020013155653.png](./assets/image-20201020013155653.png)
 
 ### **Step2: install plug in docker in eclipse**
 
@@ -755,11 +755,11 @@ Xài docker-desktop sau khi create new repo thì publish
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2010.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2010.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620162428877.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620162428877.png)
+![./assets/image-20200620162428877.png](./assets/image-20200620162428877.png)
 
 setting jdk
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620162519911.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620162519911.png)
+![./assets/image-20200620162519911.png](./assets/image-20200620162519911.png)
 
 File new maven project/ choose maven achetype quickstart
 
@@ -839,9 +839,9 @@ docker logs -ft <container-id>
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2018.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2018.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020013926239.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020013926239.png)
+![./assets/image-20201020013926239.png](./assets/image-20201020013926239.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620163713295.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620163713295.png)
+![./assets/image-20200620163713295.png](./assets/image-20200620163713295.png)
 
 :!q => exit
 
@@ -863,47 +863,47 @@ Chọn github và đăng nhập
 
 Chọn dropdown value thứ 2: Create automated builds
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164643110.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164643110.png)
+![./assets/image-20200620164643110.png](./assets/image-20200620164643110.png)
 
 Sau đó chọn icon github
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164804995.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164804995.png)
+![./assets/image-20200620164804995.png](./assets/image-20200620164804995.png)
 
 Chọn hello-world-java
 
 copy
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164903115.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164903115.png)
+![./assets/image-20200620164903115.png](./assets/image-20200620164903115.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020014646022.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020014646022.png)
+![./assets/image-20201020014646022.png](./assets/image-20201020014646022.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164928383.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620164928383.png)
+![./assets/image-20200620164928383.png](./assets/image-20200620164928383.png)
 
 Paste phần đã copy vào location
 
 Vào build settings choose trigger
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165040817.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165040817.png)
+![./assets/image-20200620165040817.png](./assets/image-20200620165040817.png)
 
 Ấn vào build detail
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020014848864.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20201020014848864.png)
+![./assets/image-20201020014848864.png](./assets/image-20201020014848864.png)
 
 Then click on Building icon restart
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165149834.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165149834.png)
+![./assets/image-20200620165149834.png](./assets/image-20200620165149834.png)
 
 DOCKER FILE is displayed
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165336299.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165336299.png)
+![./assets/image-20200620165336299.png](./assets/image-20200620165336299.png)
 
 refresh and wait after a few minutes to see success icon
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165515345.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165515345.png)
+![./assets/image-20200620165515345.png](./assets/image-20200620165515345.png)
 
 Then we click on Repo Info
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165542684.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165542684.png)
+![./assets/image-20200620165542684.png](./assets/image-20200620165542684.png)
 
 Command
 
@@ -931,9 +931,9 @@ docker pull pictolearn/hello-world-java:latest
 docker run -itd --name pictolearn/hello-world-java
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165620116.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165620116.png)
+![./assets/image-20200620165620116.png](./assets/image-20200620165620116.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165701379.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620165701379.png)
+![./assets/image-20200620165701379.png](./assets/image-20200620165701379.png)
 
 Change a little bit in source and see it will be automatically built
 
@@ -941,19 +941,19 @@ Change a little bit in source and see it will be automatically built
 
 Then we commit it and sync
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170122374.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170122374.png)
+![./assets/image-20200620170122374.png](./assets/image-20200620170122374.png)
 
 ## **9. Use Case 4 Deploy a Spring MVC war application on Apache Tomcat 8.x**
 
 ### **1. Introduction and Deployment of war application on Tomcat 8.5**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170258704.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170258704.png)
+![./assets/image-20200620170258704.png](./assets/image-20200620170258704.png)
 
 ## **10. Use Case 5 and 6 Multiple containers w different JDK and Tomcat on UBUNTU**
 
 ### **1. JDK7-Tomcat-7 and JDK8-Tomcat-8 on UBUNTU**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170503678.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170503678.png)
+![./assets/image-20200620170503678.png](./assets/image-20200620170503678.png)
 
 script-7
 
@@ -983,13 +983,13 @@ docker tag <currentimage>:<tag> <repository-name>/<image-name>:<tag>
 docker push <repository-name>/<image-name>:<tag>
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170903842.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620170903842.png)
+![./assets/image-20200620170903842.png](./assets/image-20200620170903842.png)
 
 *[http://apache.rediris.es/tomcat/tomcat-7](http://apache.rediris.es/tomcat/tomcat-7)*
 
 Vào link trên và lấy version cho chính xác
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171056363.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171056363.png)
+![./assets/image-20200620171056363.png](./assets/image-20200620171056363.png)
 
 Dockerfile7
 
@@ -1059,29 +1059,29 @@ verify
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2024.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2024.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171247648.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171247648.png)
+![./assets/image-20200620171247648.png](./assets/image-20200620171247648.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171342215.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171342215.png)
+![./assets/image-20200620171342215.png](./assets/image-20200620171342215.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171409924.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620171409924.png)
+![./assets/image-20200620171409924.png](./assets/image-20200620171409924.png)
 
 Sau khi login in terminal
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620175304389.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620175304389.png)
+![./assets/image-20200620175304389.png](./assets/image-20200620175304389.png)
 
 Create new repo
 
 We copy this name
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620175446479.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620175446479.png)
+![./assets/image-20200620175446479.png](./assets/image-20200620175446479.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620175619172.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620175619172.png)
+![./assets/image-20200620175619172.png](./assets/image-20200620175619172.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620180014854.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620180014854.png)
+![./assets/image-20200620180014854.png](./assets/image-20200620180014854.png)
 
 Likewise, create docker image with java 8
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620180132934.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200620180132934.png)
+![./assets/image-20200620180132934.png](./assets/image-20200620180132934.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2025.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2025.png)
 
@@ -1092,7 +1092,7 @@ comment trong Docker file jdk 8
 #rm -rf /opt/tomcat/webapps/docs && \
 #rm -rf /opt/tomcat/webapps/ROOT`
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621074821082.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621074821082.png)
+![./assets/image-20200621074821082.png](./assets/image-20200621074821082.png)
 
 script
 
@@ -1122,11 +1122,11 @@ docker tag <currentimage>:<tag> <repository-name>/<image-name>:<tag>
 docker push <repository-name>/<image-name>:<tag>
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075027063.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075027063.png)
+![./assets/image-20200621075027063.png](./assets/image-20200621075027063.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075110367.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075110367.png)
+![./assets/image-20200621075110367.png](./assets/image-20200621075110367.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075155293.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075155293.png)
+![./assets/image-20200621075155293.png](./assets/image-20200621075155293.png)
 
 Use case 6
 
@@ -1171,15 +1171,15 @@ CMD ["/opt/tomcat/bin/catalina.sh", "run"]
 #CMD ["/usr/bin/supervisord", "-n"]
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075435578.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075435578.png)
+![./assets/image-20200621075435578.png](./assets/image-20200621075435578.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075548371.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075548371.png)
+![./assets/image-20200621075548371.png](./assets/image-20200621075548371.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075701361.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075701361.png)
+![./assets/image-20200621075701361.png](./assets/image-20200621075701361.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075748602.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075748602.png)
+![./assets/image-20200621075748602.png](./assets/image-20200621075748602.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075804297.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075804297.png)
+![./assets/image-20200621075804297.png](./assets/image-20200621075804297.png)
 
 ```bash
 Step 1: Remove the existing pictolearn/tomcat7-jdk7 and pictolearn/tomcat8-jdk8 images
@@ -1200,19 +1200,19 @@ docker run -itd --name tomcat7-jdk7-container-1 -p 5555:8080 spring-mvc-tomcat7-
 docker run -itd --name tomcat8-jdk8-container-2 -p 5556:8080 spring-mvc-tomcat8-jdk8-image
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075923603.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621075923603.png)
+![./assets/image-20200621075923603.png](./assets/image-20200621075923603.png)
 
 Sau khi chạy `docker build -t spring-mvc-tomcat7-jdk7-image .` thì sửa docker file
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080150102.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080150102.png)
+![./assets/image-20200621080150102.png](./assets/image-20200621080150102.png)
 
 Sau đó build như trên
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080521402.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080521402.png)
+![./assets/image-20200621080521402.png](./assets/image-20200621080521402.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080255181.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080255181.png)
+![./assets/image-20200621080255181.png](./assets/image-20200621080255181.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080329902.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621080329902.png)
+![./assets/image-20200621080329902.png](./assets/image-20200621080329902.png)
 
 ### **2. Summary**
 
@@ -1220,7 +1220,7 @@ Sau đó build như trên
 
 ### **1. Mounting Log Volumes**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621081809204.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621081809204.png)
+![./assets/image-20200621081809204.png](./assets/image-20200621081809204.png)
 
 Dockerfile
 
@@ -1270,9 +1270,9 @@ Example:  docker run -itd  -p <host-port>:<container-port> -v <host-volume-absol
 docker run -itd  -p 3333:8080  -v F:/pictolearn/Docker/logs:/opt/tomcat/logs -v F:/pictolearn/Docker/webapps:/opt/tomcat/webapps  --name="tomcat-container-log" spring-mvc-tomcat7-jdk7-volume-sample
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621082243069.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621082243069.png)
+![./assets/image-20200621082243069.png](./assets/image-20200621082243069.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621082508367.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621082508367.png)
+![./assets/image-20200621082508367.png](./assets/image-20200621082508367.png)
 
 Vào setting của icon docker
 
@@ -1294,11 +1294,11 @@ Tạo folder log và webapp
 
 Afterwards, we copy file .war into webapp folder
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621083734602.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621083734602.png)
+![./assets/image-20200621083734602.png](./assets/image-20200621083734602.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2030.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2030.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621083647677.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621083647677.png)
+![./assets/image-20200621083647677.png](./assets/image-20200621083647677.png)
 
 ## **12. Use Case 8 Microservices using Docker Machine and Docker Compose**
 
@@ -1306,9 +1306,9 @@ Afterwards, we copy file .war into webapp folder
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2031.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2031.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085105449.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085105449.png)
+![./assets/image-20200621085105449.png](./assets/image-20200621085105449.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085129604.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085129604.png)
+![./assets/image-20200621085129604.png](./assets/image-20200621085129604.png)
 
 So basically what you're going to be doing is you're going to be running virtual machines on your current
 
@@ -1316,7 +1316,7 @@ computer beat the PC or the Mac
 
 ### **2. MAC Only Pre-requisite for installing Docker Machine**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085429623.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085429623.png)
+![./assets/image-20200621085429623.png](./assets/image-20200621085429623.png)
 
 download
 
@@ -1412,23 +1412,23 @@ docker-compose stop <service-name>
 docker-compose down
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085758640.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085758640.png)
+![./assets/image-20200621085758640.png](./assets/image-20200621085758640.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085941165.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621085941165.png)
+![./assets/image-20200621085941165.png](./assets/image-20200621085941165.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090059492.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090059492.png)
+![./assets/image-20200621090059492.png](./assets/image-20200621090059492.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090257358.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090257358.png)
+![./assets/image-20200621090257358.png](./assets/image-20200621090257358.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090355142.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090355142.png)
+![./assets/image-20200621090355142.png](./assets/image-20200621090355142.png)
 
 Với địa chỉ 100 thì chưa access được
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090618015.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090618015.png)
+![./assets/image-20200621090618015.png](./assets/image-20200621090618015.png)
 
 So nginx can run in both container
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090757672.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621090757672.png)
+![./assets/image-20200621090757672.png](./assets/image-20200621090757672.png)
 
 ### **3. Windows only Pre-requisite for Installing Docker Machine**
 
@@ -1516,25 +1516,25 @@ Run powershell with administration
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2037.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2037.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621101804758.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621101804758.png)
+![./assets/image-20200621101804758.png](./assets/image-20200621101804758.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102014423.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102014423.png)
+![./assets/image-20200621102014423.png](./assets/image-20200621102014423.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102352697.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102352697.png)
+![./assets/image-20200621102352697.png](./assets/image-20200621102352697.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102553765.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102553765.png)
+![./assets/image-20200621102553765.png](./assets/image-20200621102553765.png)
 
 run với port 32771 cũng chạy
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102830276.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102830276.png)
+![./assets/image-20200621102830276.png](./assets/image-20200621102830276.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102928224.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621102928224.png)
+![./assets/image-20200621102928224.png](./assets/image-20200621102928224.png)
 
 ### **5. Docker-compose Basics and Use case set up**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621114801536.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621114801536.png)
+![./assets/image-20200621114801536.png](./assets/image-20200621114801536.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621114918380.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621114918380.png)
+![./assets/image-20200621114918380.png](./assets/image-20200621114918380.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2038.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2038.png)
 
@@ -1651,35 +1651,35 @@ services: #Specifies the micro-service you want to run
 
 ### **6. Working with Docker-compose**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121400556.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121400556.png)
+![./assets/image-20200621121400556.png](./assets/image-20200621121400556.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121508189.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121508189.png)
+![./assets/image-20200621121508189.png](./assets/image-20200621121508189.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121523296.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121523296.png)
+![./assets/image-20200621121523296.png](./assets/image-20200621121523296.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121637021.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121637021.png)
+![./assets/image-20200621121637021.png](./assets/image-20200621121637021.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121702955.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621121702955.png)
+![./assets/image-20200621121702955.png](./assets/image-20200621121702955.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2042.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2042.png)
 
 Nhập vào store in va... để nhập pass test
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122108119.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122108119.png)
+![./assets/image-20200621122108119.png](./assets/image-20200621122108119.png)
 
 Build specific id
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122204427.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122204427.png)
+![./assets/image-20200621122204427.png](./assets/image-20200621122204427.png)
 
 Lý do có url vì
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2043.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2043.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122547856.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122547856.png)
+![./assets/image-20200621122547856.png](./assets/image-20200621122547856.png)
 
 copy the last command
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122658172.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122658172.png)
+![./assets/image-20200621122658172.png](./assets/image-20200621122658172.png)
 
 Link can be: `String url = "jdbc:mysql://mysql-1:3306/Users?autoReconnect=false&useSSL=false";` but we have `link` in docker-compose => use `db`
 
@@ -1687,7 +1687,7 @@ Sau khi sửa lại url trong java có chỉ có db: mới chạy đúng vì đa
 
 => This make easier to deploy selective microservices
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122942098.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621122942098.png)
+![./assets/image-20200621122942098.png](./assets/image-20200621122942098.png)
 
 ```java
 package org.pictolearn.docker.mysql;
@@ -1737,11 +1737,11 @@ public class MySQLConnection {
 }
 ```
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621123631306.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621123631306.png)
+![./assets/image-20200621123631306.png](./assets/image-20200621123631306.png)
 
 stop all
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621123846810.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621123846810.png)
+![./assets/image-20200621123846810.png](./assets/image-20200621123846810.png)
 
 ### **7. Summary**
 
@@ -1749,7 +1749,7 @@ stop all
 
 ### **1. Introduction and Initial Set up**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621132323492.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621132323492.png)
+![./assets/image-20200621132323492.png](./assets/image-20200621132323492.png)
 
 script
 
@@ -1829,7 +1829,7 @@ CMD ["java","-jar","-DlogPath=/usr/local/pictolearn", "/usr/local/pictolearn/tar
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2047.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2047.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621133234462.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621133234462.png)
+![./assets/image-20200621133234462.png](./assets/image-20200621133234462.png)
 
 import to eclipse
 
@@ -1839,13 +1839,13 @@ import to eclipse
 
 ![](assets/Pasted%20image%2020220724022210.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621135320324.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621135320324.png)
+![./assets/image-20200621135320324.png](./assets/image-20200621135320324.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2050.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2050.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621135448819.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621135448819.png)
+![./assets/image-20200621135448819.png](./assets/image-20200621135448819.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621135638775.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621135638775.png)
+![./assets/image-20200621135638775.png](./assets/image-20200621135638775.png)
 
 Gọi post and get
 
@@ -1853,7 +1853,7 @@ Gọi post and get
 
 body lấy từ file post.json, type is application/json
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621140015916.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621140015916.png)
+![./assets/image-20200621140015916.png](./assets/image-20200621140015916.png)
 
 Connect to db
 
@@ -1865,7 +1865,7 @@ Connect to db
 
 ### **1. Use Case 10 Scaling up Microservices, Service Discovery and Load Balancing**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621140251007.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621140251007.png)
+![./assets/image-20200621140251007.png](./assets/image-20200621140251007.png)
 
 scripts
 
@@ -1915,7 +1915,7 @@ docker-compose down
 
 ### **2. Quick Code Overview**
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621141227030.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621141227030.png)
+![./assets/image-20200621141227030.png](./assets/image-20200621141227030.png)
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2053.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2053.png)
 
@@ -2064,23 +2064,23 @@ pom.xml trong dispatcher
 
 Make sure your windows enable hyper-v and run powershell with administration
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150319843.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150319843.png)
+![./assets/image-20200621150319843.png](./assets/image-20200621150319843.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150437551.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150437551.png)
+![./assets/image-20200621150437551.png](./assets/image-20200621150437551.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150542598.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150542598.png)
+![./assets/image-20200621150542598.png](./assets/image-20200621150542598.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150717085.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621150717085.png)
+![./assets/image-20200621150717085.png](./assets/image-20200621150717085.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151018304.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151018304.png)
+![./assets/image-20200621151018304.png](./assets/image-20200621151018304.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151039038.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151039038.png)
+![./assets/image-20200621151039038.png](./assets/image-20200621151039038.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151149163.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151149163.png)
+![./assets/image-20200621151149163.png](./assets/image-20200621151149163.png)
 
 Sau đó vào mysql chỉnh sửa connection
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151310652.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151310652.png)
+![./assets/image-20200621151310652.png](./assets/image-20200621151310652.png)
 
 Mysql run on port 8888
 
@@ -2092,7 +2092,7 @@ Click store in val... ⇒  nhập pass ấn test
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2058.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2058.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151649782.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621151649782.png)
+![./assets/image-20200621151649782.png](./assets/image-20200621151649782.png)
 
 So what I'm going to do here is and is going to say send and it's a success for introspect the headers
 
@@ -2108,7 +2108,7 @@ there's an entry as I see it got inserted.
 
 ### scale up the app
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621153402519.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621153402519.png)
+![./assets/image-20200621153402519.png](./assets/image-20200621153402519.png)
 
 And the reason why we have a dispatcher is to be able to route to one of these.
 
@@ -2122,7 +2122,7 @@ You can see the random ip
 
 ![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2060.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2060.png)
 
-![https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621153544505.png](https://github.com/Duy-Phuong/docker-docs/raw/master/docker-java.assets/image-20200621153544505.png)
+![./assets/image-20200621153544505.png](./assets/image-20200621153544505.png)
 
 scale down
 
