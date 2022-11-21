@@ -13,10 +13,11 @@
 ### **1. What is Docker**
 
 1.1 Docker Quick Introduction.pptx
+![](assets/Pasted%20image%2020221121211300.png)
+![](assets/Pasted%20image%2020221121211334.png)
+![](assets/Pasted%20image%2020221121211403.png)
+![](assets/Pasted%20image%2020221121211511.png)
 
-![./assets/image-20201018203012113.png](./assets/image-20201018203012113.png)
-
-![./assets/image-20201018203026491.png](./assets/image-20201018203026491.png)
 
 Google on “[How is Docker different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-normal-virtual-machine)” , click on the first link on stackoverflow.com to get a more detailed understanding of docker vs virtual machines.
 
@@ -185,34 +186,28 @@ docker system prune -af
 ### **2. Docker Engine**
 
 2.1 Docker Engine.pptx
+![](assets/Pasted%20image%2020221121211532.png)
+![](assets/Pasted%20image%2020221121211553.png)
 
-![./assets/image-20201018203333848.png](./assets/image-20201018203333848.png)
-
-![./assets/image-20201018203402457.png](./assets/image-20201018203402457.png)
 
 ### **3. Real World Use case - The problem**
 
 3.1 Real World Use Case - The Problem.pptx
+![](assets/Pasted%20image%2020221121211626.png)
+![](assets/Pasted%20image%2020221121211738.png)
+![](assets/Pasted%20image%2020221121211750.png)
+![](assets/Pasted%20image%2020221121211803.png)
+![](assets/Pasted%20image%2020221121211815.png)
+![](assets/Pasted%20image%2020221121211832.png)
 
-![./assets/image-20201018203607582.png](./assets/image-20201018203607582.png)
 
-![./assets/image-20201018203629316.png](./assets/image-20201018203629316.png)
-
-![./assets/image-20201018203706103.png](./assets/image-20201018203706103.png)
-
-![./assets/image-20201018203805956.png](./assets/image-20201018203805956.png)
-
-![./assets/image-20201018203819069.png](./assets/image-20201018203819069.png)
-
-![./assets/image-20201018203843505.png](./assets/image-20201018203843505.png)
 
 ### **4. Real World Use case - Docker to the rescue**
+![](assets/Pasted%20image%2020221121211903.png)
+![](assets/Pasted%20image%2020221121211934.png)
 
-![./assets/image-20201018203909811.png](./assets/image-20201018203909811.png)
 
-![./assets/image-20201018203945013.png](./assets/image-20201018203945013.png)
 
-![./assets/image-20201018204003257.png](./assets/image-20201018204003257.png)
 
 **SUMMARY**
 
@@ -238,25 +233,23 @@ Consistent development of software across all environments.
 
 1.1 Installation of Code samples.pptx
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled.png)
+![./assets/Untitled.png](./assets/Untitled.png)
 
-![./assets/image-20201018204257983.png](./assets/image-20201018204257983.png)
+![](assets/Pasted%20image%2020221121212102.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%201.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%201.png)
+![./assets/Untitled%201.png](./assets/Untitled%201.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%202.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%202.png)
+![./assets/Untitled%202.png](./assets/Untitled%202.png)
 
 1.2 Docker hello-world.pptx
+![](assets/Pasted%20image%2020221121212127.png)
 
-![./assets/image-20201018204402940.png](./assets/image-20201018204402940.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%203.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%203.png)
+![./assets/Untitled%203.png](./assets/Untitled%203.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%204.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%204.png)
+![./assets/Untitled%204.png](./assets/Untitled%204.png)
 
-![./assets/image-20201018204325957.png](./assets/image-20201018204325957.png)
-
-![./assets/image-20201018205107428.png](./assets/image-20201018205107428.png)
+![](assets/Pasted%20image%2020221121212203.png)
 
 ### **1.4 Installation on the MAC**
 
@@ -269,9 +262,9 @@ Consistent development of software across all environments.
 
 [https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-enabling-hyper-v-for-use-on-windows-10/ba-p/267945](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-enabling-hyper-v-for-use-on-windows-10/ba-p/267945)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%205.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%205.png)
+![./assets/Untitled%205.png](./assets/Untitled%205.png)
 
-![Untitled](Hands%20on%20Course%20for%20Java%20Developers/Untitled%206.png)
+![Untitled](./assets/Untitled%206.png)
 
 ![./assets/image-20200620113113966.png](./assets/image-20200620113113966.png)
 
@@ -284,7 +277,7 @@ docker run –it hello-world`
 
 ### **3. Docker Summary Break - 1**
 
-![./assets/image-20201018205713331.png](./assets/image-20201018205713331.png)
+![](assets/Pasted%20image%2020221121212248.png)
 
 ![./assets/image-20200620113325918.png](./assets/image-20200620113325918.png)
 
@@ -495,13 +488,10 @@ So you need to stop a container container.
 
 ### **7. Usecase-1 Quick Summary and Recap**
 
-![./assets/image-20201018215735481.png](./assets/image-20201018215735481.png)
+![](assets/Pasted%20image%2020221121212420.png)
+![](assets/Pasted%20image%2020221121212432.png)
 
-![./assets/image-20201018215752451.png](./assets/image-20201018215752451.png)
 
-![./assets/image-20201018215807890.png](./assets/image-20201018215807890.png)
-
-![./assets/image-20201018215818688.png](./assets/image-20201018215818688.png)
 
 ## **6. Use Case 2 Host a website on NGINX HTTP Server**
 
@@ -509,7 +499,7 @@ So you need to stop a container container.
 
 ![./assets/image-20200620144719367.png](./assets/image-20200620144719367.png)
 
-![./assets/image-20201018222935292.png](./assets/image-20201018222935292.png)
+![](assets/Pasted%20image%2020221121212511.png)
 
 ### **2. Build-Tag-Push & Pull images**
 
@@ -598,13 +588,13 @@ FROM nginx:1.14 => search version trên docker hub
 
 Check trong file config
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%207.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%207.png)
+![./assets/Untitled%207.png](./assets/Untitled%207.png)
 
 specify location in here and copy it in DOCKER FILE
 
 Go to termial
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%208.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%208.png)
+![./assets/Untitled%208.png](./assets/Untitled%208.png)
 
 ![./assets/image-20200620150246474.png](./assets/image-20200620150246474.png)
 
@@ -616,11 +606,12 @@ Vào page dockerhub log in
 
 ![./assets/image-20200620151447518.png](./assets/image-20200620151447518.png)
 
+![](assets/Pasted%20image%2020221121212753.png)
 ![./assets/image-20200620153627698.png](./assets/image-20200620153627698.png)
 
 ![./assets/image-20200620153703411.png](./assets/image-20200620153703411.png)
+![](assets/Pasted%20image%2020221121213019.png)
 
-![./assets/image-20201019000503834.png](./assets/image-20201019000503834.png)
 
 remove image in order
 
@@ -664,8 +655,8 @@ Afterwards, pull images
 ![./assets/image-20200620161210807.png](./assets/image-20200620161210807.png)
 
 ![./assets/image-20200620161228850.png](./assets/image-20200620161228850.png)
+![](assets/Pasted%20image%2020221121213136.png)
 
-![./assets/image-20201020012315333.png](./assets/image-20201020012315333.png)
 
 **Step 1:** **Open Github desktop and create a dummy Project, check it into GIT HUB**
 
@@ -746,14 +737,13 @@ docker logs -ft <container-id>
 ### **Step 1: create new repo**
 
 Xài docker-desktop sau khi create new repo thì publish
-
-![./assets/image-20201020013155653.png](./assets/image-20201020013155653.png)
+![](assets/Pasted%20image%2020221121213304.png)
 
 ### **Step2: install plug in docker in eclipse**
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%209.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%209.png)
+![./assets/Untitled%209.png](./assets/Untitled%209.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2010.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2010.png)
+![./assets/Untitled%2010.png](./assets/Untitled%2010.png)
 
 ![./assets/image-20200620162428877.png](./assets/image-20200620162428877.png)
 
@@ -763,25 +753,25 @@ setting jdk
 
 File new maven project/ choose maven achetype quickstart
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2011.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2011.png)
+![./assets/Untitled%2011.png](./assets/Untitled%2011.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2012.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2012.png)
+![./assets/Untitled%2012.png](./assets/Untitled%2012.png)
 
 Then we click next
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2013.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2013.png)
+![./assets/Untitled%2013.png](./assets/Untitled%2013.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2014.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2014.png)
+![./assets/Untitled%2014.png](./assets/Untitled%2014.png)
 
 CHọn jdk cho project
 
 Right click on project
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2015.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2015.png)
+![./assets/Untitled%2015.png](./assets/Untitled%2015.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2016.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2016.png)
+![./assets/Untitled%2016.png](./assets/Untitled%2016.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2017.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2017.png)
+![./assets/Untitled%2017.png](./assets/Untitled%2017.png)
 
 Update pom.xml và xóa file nằm trong test folder
 
@@ -837,9 +827,9 @@ docker run -itd --name my-java-docker-container my-java-docker:latest
 docker logs -ft <container-id>
 ```
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2018.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2018.png)
+![./assets/Untitled%2018.png](./assets/Untitled%2018.png)
 
-![./assets/image-20201020013926239.png](./assets/image-20201020013926239.png)
+![](assets/Pasted%20image%2020221121213447.png)
 
 ![./assets/image-20200620163713295.png](./assets/image-20200620163713295.png)
 
@@ -851,13 +841,13 @@ commit and sync by push onto the server
 
 Vào dockerhub and vào setting
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2019.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2019.png)
+![./assets/Untitled%2019.png](./assets/Untitled%2019.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2020.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2020.png)
+![./assets/Untitled%2020.png](./assets/Untitled%2020.png)
 
 Log in to git hub account
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2021.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2021.png)
+![./assets/Untitled%2021.png](./assets/Untitled%2021.png)
 
 Chọn github và đăng nhập
 
@@ -875,7 +865,7 @@ copy
 
 ![./assets/image-20200620164903115.png](./assets/image-20200620164903115.png)
 
-![./assets/image-20201020014646022.png](./assets/image-20201020014646022.png)
+![](assets/Pasted%20image%2020221121213716.png)
 
 ![./assets/image-20200620164928383.png](./assets/image-20200620164928383.png)
 
@@ -886,8 +876,6 @@ Vào build settings choose trigger
 ![./assets/image-20200620165040817.png](./assets/image-20200620165040817.png)
 
 Ấn vào build detail
-
-![./assets/image-20201020014848864.png](./assets/image-20201020014848864.png)
 
 Then click on Building icon restart
 
@@ -937,7 +925,7 @@ docker run -itd --name pictolearn/hello-world-java
 
 Change a little bit in source and see it will be automatically built
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2022.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2022.png)
+![./assets/Untitled%2022.png](./assets/Untitled%2022.png)
 
 Then we commit it and sync
 
@@ -1053,11 +1041,11 @@ rm -rf /opt/tomcat/webapps/docs && \
 rm -rf /opt/tomcat/webapps/ROOT
 ```
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2023.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2023.png)
+![./assets/Untitled%2023.png](./assets/Untitled%2023.png)
 
 verify
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2024.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2024.png)
+![./assets/Untitled%2024.png](./assets/Untitled%2024.png)
 
 ![./assets/image-20200620171247648.png](./assets/image-20200620171247648.png)
 
@@ -1083,14 +1071,16 @@ Likewise, create docker image with java 8
 
 ![./assets/image-20200620180132934.png](./assets/image-20200620180132934.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2025.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2025.png)
+![./assets/Untitled%2025.png](./assets/Untitled%2025.png)
 
 comment trong Docker file jdk 8
 
-`#&& \
+```
+#&& \
 #rm -rf /opt/tomcat/webapps/examples && \
 #rm -rf /opt/tomcat/webapps/docs && \
-#rm -rf /opt/tomcat/webapps/ROOT`
+#rm -rf /opt/tomcat/webapps/ROOT
+```
 
 ![./assets/image-20200621074821082.png](./assets/image-20200621074821082.png)
 
@@ -1276,27 +1266,27 @@ docker run -itd  -p 3333:8080  -v F:/pictolearn/Docker/logs:/opt/tomcat/logs -v 
 
 Vào setting của icon docker
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2026.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2026.png)
+![./assets/Untitled%2026.png](./assets/Untitled%2026.png)
 
 choose F folder
 
 You will see
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2027.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2027.png)
+![./assets/Untitled%2027.png](./assets/Untitled%2027.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2028.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2028.png)
+![./assets/Untitled%2028.png](./assets/Untitled%2028.png)
 
 Disable smart firewall ⇒ Chỉnh norton smart firewall thành 1h
 
 Tạo folder log và webapp
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2029.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2029.png)
+![./assets/Untitled%2029.png](./assets/Untitled%2029.png)
 
 Afterwards, we copy file .war into webapp folder
 
 ![./assets/image-20200621083734602.png](./assets/image-20200621083734602.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2030.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2030.png)
+![./assets/Untitled%2030.png](./assets/Untitled%2030.png)
 
 ![./assets/image-20200621083647677.png](./assets/image-20200621083647677.png)
 
@@ -1304,7 +1294,7 @@ Afterwards, we copy file .war into webapp folder
 
 ### **1. Introduction to Docker-Machine**
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2031.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2031.png)
+![./assets/Untitled%2031.png](./assets/Untitled%2031.png)
 
 ![./assets/image-20200621085105449.png](./assets/image-20200621085105449.png)
 
@@ -1485,27 +1475,27 @@ Vào ô search nhập turn windows feature on off
 
 Click check in Hyper-V
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2032.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2032.png)
+![./assets/Untitled%2032.png](./assets/Untitled%2032.png)
 
 Check container và hyper-v => restart
 
 Windows/ Search Hyper-V manager
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2033.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2033.png)
+![./assets/Untitled%2033.png](./assets/Untitled%2033.png)
 
 Create new virtual switch manager by click on it
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2034.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2034.png)
+![./assets/Untitled%2034.png](./assets/Untitled%2034.png)
 
 chọn external and click CREATE
 
 Nhập như trên chọn lại External network là 6025
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2035.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2035.png)
+![./assets/Untitled%2035.png](./assets/Untitled%2035.png)
 
 chọn yes
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2036.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2036.png)
+![./assets/Untitled%2036.png](./assets/Untitled%2036.png)
 
 ### **4. Windows only Setting up 2 Docker Machines**
 
@@ -1514,7 +1504,7 @@ Run powershell with administration
 > vs-1: is virtual machine that we have created in previous chapter
 > 
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2037.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2037.png)
+![./assets/Untitled%2037.png](./assets/Untitled%2037.png)
 
 ![./assets/image-20200621101804758.png](./assets/image-20200621101804758.png)
 
@@ -1536,7 +1526,7 @@ run với port 32771 cũng chạy
 
 ![./assets/image-20200621114918380.png](./assets/image-20200621114918380.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2038.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2038.png)
+![./assets/Untitled%2038.png](./assets/Untitled%2038.png)
 
 Tag and push to the docker hub
 
@@ -1604,9 +1594,9 @@ CMD ["java", "-cp", "/usr/local/docker-mysql-connector/target/docker-mysql-conne
 
 Import existing maven project
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2039.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2039.png)
+![./assets/Untitled%2039.png](./assets/Untitled%2039.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2040.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2040.png)
+![./assets/Untitled%2040.png](./assets/Untitled%2040.png)
 
 So just to take you back to that picture you're going to go back to that picture which I gave which
 
@@ -1618,7 +1608,7 @@ One has a Microsoft is running which is called My sql and another is a Java cont
 
 javascript called web.
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2041.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2041.png)
+![./assets/Untitled%2041.png](./assets/Untitled%2041.png)
 
 => 2 dịa chỉ Ip máy ảo khác nhau
 
@@ -1661,7 +1651,7 @@ services: #Specifies the micro-service you want to run
 
 ![./assets/image-20200621121702955.png](./assets/image-20200621121702955.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2042.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2042.png)
+![./assets/Untitled%2042.png](./assets/Untitled%2042.png)
 
 Nhập vào store in va... để nhập pass test
 
@@ -1673,7 +1663,7 @@ Build specific id
 
 Lý do có url vì
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2043.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2043.png)
+![./assets/Untitled%2043.png](./assets/Untitled%2043.png)
 
 ![./assets/image-20200621122547856.png](./assets/image-20200621122547856.png)
 
@@ -1805,7 +1795,7 @@ docker-compose stop <service-name>
 docker-compose down
 ```
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2044.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2044.png)
+![./assets/Untitled%2044.png](./assets/Untitled%2044.png)
 
 Dockerfile
 
@@ -1823,25 +1813,25 @@ RUN cd /usr/local/pictolearn && mvn clean package
 CMD ["java","-jar","-DlogPath=/usr/local/pictolearn", "/usr/local/pictolearn/target/docker-compose-pictolearn-1.0.0-SNAPSHOT.jar"]
 ```
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2045.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2045.png)
+![./assets/Untitled%2045.png](./assets/Untitled%2045.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2046.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2046.png)
+![./assets/Untitled%2046.png](./assets/Untitled%2046.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2047.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2047.png)
+![./assets/Untitled%2047.png](./assets/Untitled%2047.png)
 
 ![./assets/image-20200621133234462.png](./assets/image-20200621133234462.png)
 
 import to eclipse
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2048.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2048.png)
+![./assets/Untitled%2048.png](./assets/Untitled%2048.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2049.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2049.png)
+![./assets/Untitled%2049.png](./assets/Untitled%2049.png)
 
 ![](assets/Pasted%20image%2020220724022210.png)
 
 ![./assets/image-20200621135320324.png](./assets/image-20200621135320324.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2050.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2050.png)
+![./assets/Untitled%2050.png](./assets/Untitled%2050.png)
 
 ![./assets/image-20200621135448819.png](./assets/image-20200621135448819.png)
 
@@ -1849,7 +1839,7 @@ import to eclipse
 
 Gọi post and get
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2051.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2051.png)
+![./assets/Untitled%2051.png](./assets/Untitled%2051.png)
 
 body lấy từ file post.json, type is application/json
 
@@ -1857,7 +1847,7 @@ body lấy từ file post.json, type is application/json
 
 Connect to db
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2052.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2052.png)
+![./assets/Untitled%2052.png](./assets/Untitled%2052.png)
 
 ### **2. Building Spring Boot Microservice with Docker**
 
@@ -1917,11 +1907,11 @@ docker-compose down
 
 ![./assets/image-20200621141227030.png](./assets/image-20200621141227030.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2053.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2053.png)
+![./assets/Untitled%2053.png](./assets/Untitled%2053.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2054.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2054.png)
+![./assets/Untitled%2054.png](./assets/Untitled%2054.png)
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2055.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2055.png)
+![./assets/Untitled%2055.png](./assets/Untitled%2055.png)
 
 Dockerfile
 
@@ -2060,7 +2050,7 @@ pom.xml trong dispatcher
 
 ### **3. Demo**
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2056.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2056.png)
+![./assets/Untitled%2056.png](./assets/Untitled%2056.png)
 
 Make sure your windows enable hyper-v and run powershell with administration
 
@@ -2086,11 +2076,11 @@ Mysql run on port 8888
 
 Test connection
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2057.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2057.png)
+![./assets/Untitled%2057.png](./assets/Untitled%2057.png)
 
 Click store in val... ⇒  nhập pass ấn test
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2058.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2058.png)
+![./assets/Untitled%2058.png](./assets/Untitled%2058.png)
 
 ![./assets/image-20200621151649782.png](./assets/image-20200621151649782.png)
 
@@ -2104,7 +2094,7 @@ So what I'm going to do right now as I'm going to go and check into my school da
 
 there's an entry as I see it got inserted.
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2059.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2059.png)
+![./assets/Untitled%2059.png](./assets/Untitled%2059.png)
 
 ### scale up the app
 
@@ -2120,7 +2110,7 @@ diner trays or at Dynamix higher performance monitoring tools.
 
 You can see the random ip
 
-![Hands%20on%20Course%20for%20Java%20Developers/Untitled%2060.png](Hands%20on%20Course%20for%20Java%20Developers/Untitled%2060.png)
+![./assets/Untitled%2060.png](./assets/Untitled%2060.png)
 
 ![./assets/image-20200621153544505.png](./assets/image-20200621153544505.png)
 
